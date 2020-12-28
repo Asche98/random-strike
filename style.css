@@ -1,0 +1,21 @@
+body{
+background:#000000 url(img/site-bg.jpg);
+font-weight:bold;
+color:#fff;
+}
+.wrap{
+margin:0 auto;
+width:691px;
+}
+h1{
+margin:0;
+}
+#rs{
+border:1px solid white;
+}
+header,footer{
+background:#000;
+display:inline-block;
+margin:5px 0 5px 0;
+border-radius:7px;
+}
